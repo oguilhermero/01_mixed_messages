@@ -9,4 +9,4 @@ Key facts on many animals.
 Animals be like will have:
 1. A database of animals names, color, sounds and fun facts.
 2. A JavaScript program to pull data from the database.
-3. A basic web front end with a phrase and a button.
+3. A basic web front end with animals data and a refresh button.
