@@ -27,4 +27,11 @@ const animals = [
         sound: "whistle",
         funFact: "Caterpillars have 12 tiny eyelets that are known as stemmata"
     },
+    {
+        name: "bee",
+        color: "yellow and black",
+        hexColor: "#E8A917",
+        sound: "buzz",
+        funFact: "Bees cannot see the color red"
+    }
 ]
