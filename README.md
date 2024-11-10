@@ -1,12 +1,9 @@
-# Animals be like
+# Random Bible Verse (alpha)
 ## What this program is about?
-Animals be like is a program to help you learn about whichever animal you like.
-
-## What can I learn with this program?
-Key facts on many animals.
+This program will sort through Bible books, chapters and verses to load a random Bible verse everytime it's invoked.
 
 ## Program scope
-Animals be like will have:
-1. A database of animals names, color, sounds and fun facts.
-2. A JavaScript program to pull data from the database.
-3. A basic web front end with animals data and a refresh button.
+The alpha version of Random Bible Verse will:
+1. Randomly pick up a verse from Philippians and Colossians books
+2. Retrieve the text for the single verse
+3. Print the verse reference
